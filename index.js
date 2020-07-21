@@ -15,17 +15,14 @@ server.get('/', (req, res) => {
 			    "uid": "PICKLE_FAIRY_JSON_TTS_1",
 			    "updateDate": "2020-07-19T00:00:00.0Z",
 			    "titleText": "A joke from the Pickle Fairy",
-			    "mainText":"",
 			    "streamURL": "https://picklefairy.s3.us-east-2.amazonaws.com/Pickle-fairy-test-1.mp3",
-			    "redirectionUrl": ""
 			   },
 
 			  {
 			    "uid": "PICKLE_FAIRY_JSON_TTS_2",
-			    "updateDate": "2020-07-19T00:00:00.0Z",
+			    "updateDate": "2020-07-19T02:00:00.0Z",
 			    "titleText": "A joke from the Pickle Fairy",
 			    "mainText":"What do young pickles like on their birthday cake... Canned dills!",
-			    "redirectionUrl": ""
 			   }
 	    ]
 	)
